@@ -22,13 +22,11 @@ A classic Tic-Tac-Toe game built with React. This project demonstrates the power
    git clone https://github.com/keerthanaperavali/Tic-Tac-Toe-react.git
    cd Tic-Tac-Toe-react
    
-```
 2. **Install dependencies:**
 
 ```bash
 
 npm install
-
 ```
 
 3.**Start the development server:**
